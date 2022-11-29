@@ -61,7 +61,7 @@ Model 03 - National Grid (EPC) မှ လျှပ်စစ်ဓာတ်အာ
 
 ## Model 01 (Schematic and Pictorial Diagrams )
 ![Model 01 Schematic](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/model_01_schematic.jpg)
-![Model 01 Pictorial](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/model_02_pictorial.jpg)
+![Model 01 Pictorial](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/model_01_pictorial.jpg)
 
 ### Model 01 တပ်ဆင်နည်း 
 
