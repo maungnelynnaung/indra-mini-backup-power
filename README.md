@@ -35,3 +35,9 @@ Model 02 - National Grid (EPC) မှ လျှပ်စစ်ဓာတ်အာ
 ![Model 03](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/model_03_concept.JPG)
 
 Model 03 - National Grid (EPC) မှ လျှပ်စစ်ဓာတ်အား မရရှိသော ကျေးလက်ဒေသနေ လူထု အနေဖြင့် ဆိုလာစွမ်းအင်ကို အသုံးပြု၍ AC လျှပ်စစ်ဓာတ်အားနှင့် DC လျှပ်စစ်ဓာတ်အား (၂) မျိုးလုံးကို ထုတ်ယူ သုံးစွဲနိုင်စေရန် ပြင်ဆင်ထားပါသည်။ 
+
+# အရန်လျှပ်စစ်ဓာတ်အားစနစ် တည်ဆောက်ရန် လိုအပ်သည့်ပစ္စည်းများနှင့် ကုန်ကျစရိတ် 
+
+![Cost Summary](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/cost_summary.png)
+
+![Cost Breakdown](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/bill_of_materials.png)
