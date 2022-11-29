@@ -43,3 +43,72 @@ Model 03 - National Grid (EPC) မှ လျှပ်စစ်ဓာတ်အာ
 ![Cost Breakdown](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/bill_of_materials.png)
 
 မှတ်ချက် - ၂၀၂၂ ခုနှစ် နိုဝင်ဘာ ၂၉ ရက်နေ့ မန္တလေးမြို့ ပေါက်စျေးများကို အခြေခံ၍ တွက်ချက်ထားခြင်း ဖြစ်ပါသည်။ စျေးနှုန်း အပြောင်းအလဲ အချိန် မရွေး ဖြစ်ပေါ်နိုင်ပါသည်။ 
+
+# အရန်လျှပ်စစ်ဓာတ်အားစနစ် တပ်ဆင်ရန် လိုအပ်သည့် ကိရိယာ တန်ဆာပလာများ 
+
++ လွန်ပူ
++ ပလာယာ
++ ဝက်အူလှည့်
++ ဂွ (ဂွင်းဂွ)
++ ပေကြိုး
++ Tester 
++ မီးကြိုးကပ်တိပ်
++ Multimeter/Clamp Meter (ရှိလျှင် သုံးရန်)
+
+# Schematic and Pictorial Diagrams 
+
+## Model 01 (Schematic and Pictorial Diagrams )
+![Model 01 Schematic](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/model_01_schematic.jpg)
+![Model 01 Pictorial](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/model_02_pictorial.jpg)
+
+### Model 01 တပ်ဆင်နည်း 
+
++ ပါဝင်ပစ္စည်းများကို နေရာချထားပါ။
++ MCCB Breaker နှင့် MCB Breaker တို့ကို ပိတ်ထားပါ။
++ Solar Charge Controller ၏ Battery ပုံပါ ငုတ်နှစ်ခုကို MCB Breaker ၏ အဝင်ငုတ် ၁ နင့် ၂တို့တွင် ဆက်သွယ်ပါ။ အပေါင်း အနုတ် မှန်ကန်စွာ တပ်ဆင်ထားခြင်း ရှိ မရှိ စစ်ဆေးပါ။ 
++ DC Voltmeter ၏ ပါဝါကြိုး တစ်စနှင့် Battery Charger ၏ အားသွင်းကြိုး တစ်စ တို့ကို MCB Breaker ၏ အဝင်ငုတ် ၁ တွင် ဆက်သွယ်ပါ။ထို့နောက် DC Voltmeter ၏ ကျန်ပါဝါကြိုး တစ်စနှင့် Battery Charger ၏ ကျန်အားသွင်းကြိုး တစ်စ တို့ကို MCB Breaker ၏ အဝင်ငုတ် ၂ တွင် ဆက်သွယ်ပါ။
++ Inverter ၏ ပါဝါအဝင် ငုတ်နှစ်ခု ကို  MCB Breaker ၏ အဝင်ငုတ် ၁ နှင့် ၂ တို့တွင် ဆက်သွယ်ပါ။
++ Inverter ၏ AC အထွက်ကြိုးနှစ်စ မှ တစ်စကို Relay ၏ Pin နံပါတ် ၅ သို့လည်းကောင်း၊ကျန် တစ်စကို Pin နံပါတ် ၄ သို့လည်းကောင်း ဆက်သွယ်ပါ။
++ AC Voltmeter ၏ ပါဝါငုတ်တစ်ခု နှင့် AC Outlet ၏ N ငုတ်တို့ကို Relay ၏ Pin နံပါတ် ၈ တွင်လည်းကောင်း၊ AC Voltmeter ၏ ကျန်ပါဝါငုတ်တစ်ခု နှင့် AC Outlet ၏ L ငုတ်တို့ကို Relay ၏ Pin နံပါတ် ၁ တွင်လည်းကောင်း ဆက်သွယ်ပါ။
++ MCCB Breaker ၏ အထွက်ငုတ် ၁ နှင့် ၂ တွင် Battery Charger ၏ ပါဝါကြိုးတို့ကို ဆက်သွယ်ပါ။
++ Relay ၏ Pin နံပါတ် ၆ နှင့် ၇ တို့ကို MCCB Breaker ၏ အထွက်ငုတ် ၁ နှင့်လည်းကောင်း၊ Relay ၏ Pin နံပါတ် ၃ နှင့် ၂ တို့ကို MCCB Breaker ၏ အထွက်ငုတ် ၂ နှင့်လည်းကောင်း ဆက်သွယ်ပါ။
++ ဝါယာ ဆက်သွယ်မှုများအား မှန်ကန်စွာ ပြန်လည်စစ်ဆေးပါ။ အပေါင်း အနုတ် မှန်ကန်စွာ တပ်ဆင်ထားခြင်း ရှိ မရှိ စစ်ဆေးပါ။ 
++ မှန်ကန်ကြောင်းစစ်ဆေးပြီးပါက Battery ပါဝါငုတ်တို့ကို MCB Breaker ၏ အထွက်ငုတ် ၁ နှင့် ၂ တို့တွင် ဆက်သွယ်ပါ။
++ Solar Panel ၏ နီနက်ကြိုးကို Solar Charge Controller ၏ Solar ပုံပါအဝင်ငုတ်တို့တွင် မှန်ကန်စွာ ဆက်သွယ်ပါ။
++ Main AC (EPC) မှ N နှင့် L တို့ကို MCCB Breaker ၏ အဝင်ငုတ် ၁ နှင့် ၂ တို့တွင် ဆက်သွယ်ပါ။
++ ဝါယာကြိုးများ မှန်ကန်စွာ ဆက်သွယ်ပြီးပါက MCB Breaker နှင့် MCCB Breaker တို့ကို ပြန်လည်ဖွင့်ထားပါ။ 
+
+## Model 02 (Schematic and Pictorial Diagrams )
+![Model 02 Schematic](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/model_02_schematic.jpg)
+![Model 02 Pictorial](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/model_02_pictorial.jpg)
+
+### Model 02 တပ်ဆင်နည်း 
+
++ ပါဝင်ပစ္စည်းများကို နေရာချထားပါ။
++ MCCB Breaker အား ပိတ်ထားသည့် အနေအထားတွင်ထားပါ။
++ Battery Charger ၏ AC ပါဝါ ကြိုးနှစ်စ ကို MCCB Breaker ၏ အထွက်ငုတ် ၁ နှင့် ၂ တို့တွင်ဆက်သွယ်ပါ။
++ Inverter ၏ AC အထွက်ကြိုးနှစ်စ မှ တစ်စ စီကို Relay ၏ Pin နံပါတ် ၄ နှင့် ၅ တို့ကိုဆက်သွယ်ပါ။
++ Relay ၏ Pin နံပါတ် ၈ တွင် AC Voltmeter ၏ ပါဝါကြိုးတစ်စ နှင့် AC Outlet ၏ ပါဝါကြိုးတစ်စ N တို့ကိုဆက်သွယ်ပါ။ ထို့နောက် AC Voltmeter မှ ကျန်ပါဝါကြိုးတစ်စ နှင့် AC Outlet ၏ ကျန်ပါဝါကြိုးတစ်စ L တို့ကို Relay ၏ Pin နံပါတ် ၁ တွင်ဆက်သွယ်ပါ။
++ Relay ၏ Pin နံပါတ် ၆ နင့် ၇ တို့ကို MCCB Breaker ၏ အထွက်ငုတ် ၁ တွင်ဆက်သွယ်ပါ။ထို့နောက် Relay ၏ Pin နံပါတ်၂ နှင့် ၃ တို့ကို MCCB Breaker ၏ အထွက်ငုတ် ၂ တွင် ဆက်သွယ်ပါ။
++ Battery Charger ၏ အားသွင်းကြိုးနှစ်စ ကို Battery ၏ ငုတ်များတွင် မှန်ကန်စွာဆက်သွယ်ပါ။
++ Inverter ၏ ပါဝါကြိုး နှစ်စ ကို Battery ၏ ပါဝါငုတ်တို့တွင် မှန်ကန်စွာ ဆက်သွယ်ပါ။
++ Main AC (EPC) မှ L နှင့် N ကြိုးတို့ကို MCCB Breaker ၏ အဝင်ငုတ် ၁ နှင့် ၂ တို့တွင် မှန်ကန်စွာ ဆက်သွယ်ပါ။
++ အပေါင်း အနုတ် မှန်ကန်စွာ တပ်ဆင်ထားခြင်း ရှိ မရှိ စစ်ဆေးပါ။ 
++ ဆက်သွယ်မှုများ မှန်ကန်စွာ ပြန်လည်စစ်ဆေးပြီးပါက MCCB Breaker ကို ပြန်လည်ဖွင့်ထားပါ။
+
+## Model 03 (Schematic and Pictorial Diagrams )
+![Model 03 Schematic](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/model_03_schematic.jpg)
+![Model 03 Pictorial](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/model_03_pictorial.jpg)
+
+### Model 03 တပ်ဆင်နည်း 
+
++ ပါဝင်ပစ္စည်းများကို နေရာချထားပါ။
++ MCB Breaker အား ပိတ်ထားသည့် အနေအထားတွင်ထားပါ။
++ Solar Charge Controller ၏ Battery ပုံပါ အပေါင်းငုတ်နှင့်အနုတ်ငုတ်တို့ကို MCB Breaker ၏ အဝင်ငုတ် ၁ နှင့် ၂ တို့ဖြင့်ဆက်သွယ်ပါ။
++ DC Voltmeter ၏ အပေါင်းငုတ်နှင့် အနုတ်ငုတ်တို့ကို MCB Breaker ၏ အထွက်ငုတ် ၁ နှင့် ၂ တို့ဖြင့်ဆက်သွယ်ပါ။
++ Inverter ၏ ပါဝါ အပေါင်းငုတ်နှင့် အနုတ်ငုတ်တို့ကို MCB Breaker ၏ အဝင်ငုတ် ၁ နှင့် ၂ တို့ဖြင့်ဆက်သွယ်ပါ။
++ AC Voltmeter ၏ ပါဝါငုတ်တို့ကို AC Outlet ၏ ပါဝါငုတ် L နှင့် N တို့ဖြင့်ဆက်သွယ်ပါ။
++ Inverter ၏ AC အထွက်ငုတ် ကို AC Outlet ၏ ပါဝါငုတ် L နှင့် N တို့ဖြင့်ဆက်သွယ်ပါ။
++ ဝါယာကြိုး ဆက်သွယ်မှုများ မှန်ကန်မှု ရှိ/မရှိ သေချာစွာ ပြန်လည်စစ်ဆေးပါ။ အပေါင်း အနုတ် မှန်ကန်စွာ တပ်ဆင်ထားခြင်း ရှိ မရှိ စစ်ဆေးပါ။ 
++ Battery ၏ အပေါင်းငုတ်နှင့် အနုတ်ငုတ်တို့ကို MCB Breaker ၏ အထွက်ငုတ် ၁ နှင့် ၂ တို့ဖြင့်ဆက်သွယ်ပါ။
++ Solar Panel မှ နီနက် ဝါယာ ကို Solar Charge Controller ၏ Solar ပုံပါ နီနက် အဝင်ငုတ်တို့တွင်ဆက်သွယ်ပါ။
