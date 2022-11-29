@@ -41,3 +41,5 @@ Model 03 - National Grid (EPC) မှ လျှပ်စစ်ဓာတ်အာ
 ![Cost Summary](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/cost_summary.png)
 
 ![Cost Breakdown](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/bill_of_materials.png)
+
+မှတ်ချက် - ၂၀၂၂ ခုနှစ် နိုဝင်ဘာ ၂၉ ရက်နေ့ မန္တလေးမြို့ ပေါက်စျေးများကို အခြေခံ၍ တွက်ချက်ထားခြင်း ဖြစ်ပါသည်။ စျေးနှုန်း အပြောင်းအလဲ အချိန် မရွေး ဖြစ်ပေါ်နိုင်ပါသည်။ 
