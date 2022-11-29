@@ -114,3 +114,11 @@ Model 03 - National Grid (EPC) မှ လျှပ်စစ်ဓာတ်အာ
 + ဝါယာကြိုး ဆက်သွယ်မှုများ မှန်ကန်မှု ရှိ/မရှိ သေချာစွာ ပြန်လည်စစ်ဆေးပါ။ အပေါင်း အနုတ် မှန်ကန်စွာ တပ်ဆင်ထားခြင်း ရှိ မရှိ စစ်ဆေးပါ။ 
 + Battery ၏ အပေါင်းငုတ်နှင့် အနုတ်ငုတ်တို့ကို MCB Breaker ၏ အထွက်ငုတ် ၁ နှင့် ၂ တို့ဖြင့်ဆက်သွယ်ပါ။
 + Solar Panel မှ နီနက် ဝါယာ ကို Solar Charge Controller ၏ Solar ပုံပါ နီနက် အဝင်ငုတ်တို့တွင်ဆက်သွယ်ပါ။
+
+# Contribution and Support
+
+INDRA Innovation & Communication ၏ ဤ Opensource Project ကို အတွက် လိုအပ်မည့် အချက်အလက်များ၊ အကြံညဏ်များ ပံ့ပိုးခြင်းဖြင့် ကူညီပံ့ပိုးနိုင်ပါသည်။ INDRA Innovation & Communication အနေဖြင့်လည်း Backup Power System များကို ကိုယ်တိုင် ထုတ်လုပ်၍ ဖြန့်ဖြူးလျက် ရှိပါသည်။ INDRA ၏ Backup Power System များကို ဝယ်ယူခြင်းဖြင့်လည်း ကူညီပံ့ပိုးနိုင်ပါသည်။ 
+
+# Contact
+
+![Contact](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/contact_indra.jpg)
