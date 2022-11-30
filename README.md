@@ -118,7 +118,7 @@ Model 03 - National Grid (EPC) မှ လျှပ်စစ်ဓာတ်အာ
 
 # Contribution and Support
 
-INDRA Innovation & Communication ၏ ဤ Opensource Project ကို အတွက် လိုအပ်မည့် အချက်အလက်များ၊ အကြံညဏ်များ ပံ့ပိုးခြင်းဖြင့် ကူညီပံ့ပိုးနိုင်ပါသည်။ INDRA Innovation & Communication အနေဖြင့်လည်း Backup Power System များကို ကိုယ်တိုင် ထုတ်လုပ်၍ ဖြန့်ဖြူးလျက် ရှိပါသည်။ INDRA ၏ Backup Power System များကို ဝယ်ယူခြင်းဖြင့်လည်း ကူညီပံ့ပိုးနိုင်ပါသည်။ 
+INDRA Innovation & Communication ၏ ဤ Opensource Project ကို အတွက် လိုအပ်မည့် အချက်အလက်များ၊ အကြံညဏ်များ ပံ့ပိုးခြင်းဖြင့် ကူညီပံ့ပိုးနိုင်ပါသည်။ INDRA Innovation & Communication အနေဖြင့်လည်း Backup Power System များကို ကိုယ်တိုင် ထုတ်လုပ်၍ ဖြန့်ဖြူးလျက် ရှိပါသည်။ INDRA ၏ Portable Power Station များ၊ Backup Power System များကို ဝယ်ယူခြင်းဖြင့်လည်း ကူညီပံ့ပိုးနိုင်ပါသည်။ 
 
 # Contact
 
