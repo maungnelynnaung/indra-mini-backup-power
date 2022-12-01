@@ -120,6 +120,10 @@ Model 03 - National Grid (EPC) မှ လျှပ်စစ်ဓာတ်အာ
 
 INDRA Innovation & Communication ၏ ဤ Opensource Project ကို အတွက် လိုအပ်မည့် အချက်အလက်များ၊ အကြံညဏ်များ ပံ့ပိုးခြင်းဖြင့် ကူညီပံ့ပိုးနိုင်ပါသည်။ INDRA Innovation & Communication အနေဖြင့်လည်း Backup Power System များကို ကိုယ်တိုင် ထုတ်လုပ်၍ ဖြန့်ဖြူးလျက် ရှိပါသည်။ INDRA ၏ Portable Power Station များ၊ Backup Power System များကို ဝယ်ယူခြင်းဖြင့်လည်း ကူညီပံ့ပိုးနိုင်ပါသည်။ 
 
+# Mount Design 
+
+![Mount Design](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/mount_design.jpg)
+
 # Contact
 
 ![Contact](https://github.com/maungnelynnaung/indra-mini-backup-power/blob/main/contact_indra.jpg)
